@@ -1,1 +1,1 @@
-# Repository for vue project
+# Source code repository for "Arcane" vue project
